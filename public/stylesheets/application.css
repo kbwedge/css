@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+
+    color: rgb(255, 0, 0);
+    font-size: 70px;
+
+}
+
+p{
+
+    font-size: 36px;
+    color: purple;
+}
+
+#boba{
+        color: green
+    }
+
+.taco {
+    color: royalblue;
+
+}
+
+p a {
+
+    color: yellow;
+}
